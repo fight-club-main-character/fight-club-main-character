@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fight-club-main-character
-- 👀 I’m interested in statistic
+- 👀 I’m interested in statistics
 - 🌱 I’m currently learning fighting
-- 💞️ I’m looking to collaborate on project Project Mayhem
+- 💞️ I’m looking to collaborate on Project Mayhem
 - 📫 How to reach me fight
 
 <!---
